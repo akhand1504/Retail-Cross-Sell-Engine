@@ -6,10 +6,9 @@ This project is an end-to-end Market Basket Analysis designed to identify cross-
 **Goal:** Transform raw transaction logs into a targeted cross-sell strategy.
 
 ### 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-*(Make sure the filename matches your uploaded image)*
+<img width="960" height="509" alt="Dashboard Preview Retail_Strategy" src="https://github.com/user-attachments/assets/dcec0fa7-6b6b-44dc-bfff-e4879f191f26" />
 
----
+
 
 ###  The Tech Stack
 * **Python (Pandas):** ETL pipeline to clean and slice large datasets (~1M rows).
